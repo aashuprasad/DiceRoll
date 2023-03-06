@@ -1,10 +1,9 @@
-# DiceRoll
-#Setup device and emulator
 
-#Basic app structure
+## Dice Roller
 
-#Layouts, Activities and inflation
+Dice Roller is a simple app that rolls a six sided die.
 
-#Interaction via button
 
-#Gradle and compatibility on Android
+## Screenshots
+
+![Screenshot1](screenshots/screen0.png) ![Screenshot1](screenshots/screen1.png)
